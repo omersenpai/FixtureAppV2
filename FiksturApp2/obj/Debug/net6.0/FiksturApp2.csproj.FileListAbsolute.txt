@@ -1,0 +1,15 @@
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\bin\Debug\net6.0\FiksturApp2.exe
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\bin\Debug\net6.0\FiksturApp2.deps.json
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\bin\Debug\net6.0\FiksturApp2.runtimeconfig.json
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\bin\Debug\net6.0\FiksturApp2.dll
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\bin\Debug\net6.0\FiksturApp2.pdb
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.AssemblyInfo.cs
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.dll
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\refint\FiksturApp2.dll
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.pdb
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\FiksturApp2.genruntimeconfig.cache
+C:\Users\Omer\source\repos\FiksturApp2\FiksturApp2\obj\Debug\net6.0\ref\FiksturApp2.dll
